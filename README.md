@@ -1,6 +1,6 @@
 ## I'm Mohammad Bin Saeed Khattak. 
 🎓 **Sophomore Data Student at FAST NUCES Islamabad**
-📊 **Aspiring Data Scientist
+📊 **Aspiring Data Scientist**
 📍 **Islamabad, Pakistan**
 <!--
 **mkay860/mkay860** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
