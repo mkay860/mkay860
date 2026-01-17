@@ -2,7 +2,7 @@
 
 🎓 **Sophomore Undergraduate Data Student | FAST NUCES Islamabad**  
 📊 **Aspiring Data Scientist**  
-📍 Islamabad, Pakistan  
+ 📍 **Islamabad, Pakistan**  
 
 ---
 
